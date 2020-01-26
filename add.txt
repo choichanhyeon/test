@@ -1,0 +1,5 @@
+public int add(a,b) {
+	int sum = a+b;
+	
+	return sum;
+}	
